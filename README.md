@@ -1,2 +1,2 @@
 # Coffee_Machine
-A satisfying Coffee Machine Simulation
+A AI backed satisfying Coffee Machine Simulation
